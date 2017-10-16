@@ -1,6 +1,8 @@
 # code
 
-Comment: The following Java function was written for my last school project, which is to build a website with Android app that is similar to FabFlix.com. After writing these codes, I finally understand how to display the content from databse onto a webpage. It is not complicated as some dynamic programming algorithms codes sample, but it was like opening a window to me. It is just a tiny part of the project, but somehow I feel it is important to me. The whole project was built by MySQL, Java(servlet), Tomcat, and AWS. Finally, the website funstions as same as the Fabflix.com. (however, with a simpler UI) For the contribution part, even though it is a team assignment,   I have done it all by myself(under the Instructor's instruction), because my teammate was focusing on his Math courses in order to get a higher GPA. However, I feel this project has many valuable information and doing all the work will not hurt me but help me to improve. 
+# Comment: The following Java function was written for my last school project, which is to build a website with Android app that is similar to FabFlix.com. After writing these codes, I finally understand how to display the content from databse onto a webpage. It is not complicated as some dynamic programming algorithms codes sample, but it was like opening a window to me. It is just a tiny part of the project, but somehow I feel it is important to me. The whole project was built by MySQL, Java(servlet), Tomcat, and AWS. Finally, the website funstions as same as the Fabflix.com. (however, with a simpler UI) For the contribution part, even though it is a team assignment,   I have done it all by myself(under the Instructor's instruction), because my teammate was focusing on his Math courses in order to get a higher GPA. However, I feel this project has many valuable information and doing all the work will not hurt me but help me to improve. 
+
+
 
 
 
