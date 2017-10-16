@@ -10,9 +10,8 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
         String loginUser = "mytestuser";
         String loginPasswd = "mypassword";
         String loginUrl = "jdbc:mysql://localhost:3306/moviedb";
-        response.setContentType("text/html");    // Response mime type
+        response.setContentType("text/html");   
         PrintWriter out = response.getWriter();
-        
         try
            {
               //Class.forName("org.gjt.mm.mysql.Driver");
@@ -88,5 +87,4 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
                 return;
             }
          out.close();
-    }
 }
